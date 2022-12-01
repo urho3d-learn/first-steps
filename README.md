@@ -242,7 +242,7 @@ void HandleUpdate(StringHash eventType, VariantMap& eventData)
 Допустим, мы хотим продать нашу замечательную игру, но не хотим, чтобы кто-то копался в её исходниках. Воспользуемся утилитой `ScriptCompiler.exe`, которая находится в папке `build_vs\bin\tool`:
 
 ```
-ScriptCompiler.exe data/scripts/main.as
+ScriptCompiler.exe Data/scripts/main.as
 ```
 
 На выходе получаем main.asc. Исходный файл main.as убираем подальше. При отсутствии запрашиваемого .as файла загружается .asc файл, а значит не нужно исправлять `CommandLine.txt`. Дополнительным плюсом этого является более быстрый запуск игры.
