@@ -249,6 +249,8 @@ ScriptCompiler.exe Data/scripts/main.as
 
 Итоговый результат находится тут же в репозитории.
 
+---
+
 *Следующий урок: [Редактор Urho3D](https://github.com/urho3d-learn/editor).*
 
 *Старая версия урока: <https://github.com/1vanK/Urho3DHabrahabr01>.*
