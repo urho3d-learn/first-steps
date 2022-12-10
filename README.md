@@ -112,7 +112,7 @@ Urho3DPlayer.exe Data/Scripts/23_Water.as -x 800 -y 600 -w
 
 ![](sample.png)
 
-Если запускать лаучнер без параметров, то в качестве аргументов командой строки используется содержимое файла Data/CommandLine.txt. Все параметры лаунчера можно посмотреть тут: <https://urho3d-doxygen.github.io/1_9_0_plus/_running.html>.
+Если запускать лаучнер без параметров, то в качестве аргументов командой строки используется содержимое файла Data/CommandLine.txt. Все параметры лаунчера можно посмотреть тут: <https://urho3d-doxygen.github.io/1_9_0_tutors/_running.html>.
 
 ## Привет, мир!
 
